@@ -1,5 +1,5 @@
 # survival
-[200~# survival
+
 Document a list of survival items, recommendations, and advice should we ever have to 
 shelter in place for self isolation or self quarantine in future pandemics like the 
 coronavirus in 2019-2020.  **God Bless the healthcare workers, Doctors, and Nurses that 
